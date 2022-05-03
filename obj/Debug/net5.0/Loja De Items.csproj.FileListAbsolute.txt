@@ -1,0 +1,16 @@
+D:\github.com\Loja De Items\bin\Debug\net5.0\Loja De Items.exe
+D:\github.com\Loja De Items\bin\Debug\net5.0\Loja De Items.deps.json
+D:\github.com\Loja De Items\bin\Debug\net5.0\Loja De Items.runtimeconfig.json
+D:\github.com\Loja De Items\bin\Debug\net5.0\Loja De Items.runtimeconfig.dev.json
+D:\github.com\Loja De Items\bin\Debug\net5.0\Loja De Items.dll
+D:\github.com\Loja De Items\bin\Debug\net5.0\ref\Loja De Items.dll
+D:\github.com\Loja De Items\bin\Debug\net5.0\Loja De Items.pdb
+D:\github.com\Loja De Items\obj\Debug\net5.0\Loja De Items.csproj.AssemblyReference.cache
+D:\github.com\Loja De Items\obj\Debug\net5.0\Loja De Items.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\Loja De Items\obj\Debug\net5.0\Loja De Items.AssemblyInfoInputs.cache
+D:\github.com\Loja De Items\obj\Debug\net5.0\Loja De Items.AssemblyInfo.cs
+D:\github.com\Loja De Items\obj\Debug\net5.0\Loja De Items.csproj.CoreCompileInputs.cache
+D:\github.com\Loja De Items\obj\Debug\net5.0\Loja De Items.dll
+D:\github.com\Loja De Items\obj\Debug\net5.0\ref\Loja De Items.dll
+D:\github.com\Loja De Items\obj\Debug\net5.0\Loja De Items.pdb
+D:\github.com\Loja De Items\obj\Debug\net5.0\Loja De Items.genruntimeconfig.cache
